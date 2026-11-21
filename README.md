@@ -1,4 +1,4 @@
-# Eternal SemSeg Challenge
+# SemSeg Challenge
 
 A camera and a 3D lidar look at the same scene. Label every pixel and every
 point, using both sensors, and make the two labellings agree.
